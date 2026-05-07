@@ -1,3 +1,3 @@
 def multiply(a, b):
-    return a + b 
-#should be a * b, but we will fix it in the next commit
+    return a * b 
+#correct the function to return the product of a and b
